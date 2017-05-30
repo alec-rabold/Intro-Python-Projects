@@ -1,4 +1,4 @@
-# Python-Projects
+# Intro Python Projects
 <hr>
 <b>What is this respository? </b>
 <p> These are a handful of the introductory mini-assignments I programmed to familiarize myself with Python. </p>
